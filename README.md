@@ -7,9 +7,8 @@
 
 - 🎓 Currently pursuing my **M.Sc. in Computer Science** at **KIT**  
 - 💡 Interested in **machine learning**, **AI systems**, and **efficient model design**  
-- 🏃 In my free time, I’m a **triathlete** who enjoys training and exploring how data and performance connect  
-- 🎯 My goal is to contribute to **reliable, understandable, and efficient AI systems**
-
+- 🏃 In my free time, I’m a **triathlete** who enjoys training and exploring how data and performance connect
+- 
 ---
 
 ## 🚀 Current Projects
@@ -30,5 +29,5 @@
 ---
 
 <p align="center">
-  <sub>⭐ Thanks for visiting — feel free to reach out or explore my projects.</sub>
+  <sub>⭐ Thanks for visiting.</sub>
 </p>
