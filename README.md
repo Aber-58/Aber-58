@@ -5,7 +5,7 @@
 ---
 
 ### About Me
-I am a graduate student at the Karlsruhe Institute of Technology (KIT) with a passion for building efficient AI systems. Beyond the keyboard, I am a competitive triathlete. I find that the discipline required for endurance sports mirrors the persistence needed to solve complex engineering problems.
+I am a graduate student at the Karlsruhe Institute of Technology (KIT) with a passion for building efficient AI systems.
 
 - 🤖 **Currently exploring:** Resource-efficient deep learning & model optimization.
 - 🏊 **Training for:** My next triathlon, while analyzing performance data in Python.
