@@ -1,36 +1,30 @@
-<!-- Clean and Professional GitHub Profile README -->
+# Albert
 
-# Hi there 👋, I'm Albert
-
-
-## 👨‍💻 About Me
-
-- 🎓 Currently pursuing my **M.Sc. in Computer Science** at **KIT**  
-- 💡 Interested in **machine learning**, **AI systems**, and **efficient model design**  
-- 🏃 In my free time, I’m a **triathlete** who enjoys training and exploring how data and performance connect
+**M.Sc. Computer Science Student @ KIT** *Focusing on Machine Learning, AI Systems & Efficient Model Design*
 
 ---
 
-## 🚀 Current Projects
+### About Me
+I am a graduate student at the Karlsruhe Institute of Technology (KIT) with a passion for building efficient AI systems. Beyond the keyboard, I am a competitive triathlete. I find that the discipline required for endurance sports mirrors the persistence needed to solve complex engineering problems.
 
-- **TriDash – Triathlon Dashboard**  
-  A lightweight dashboard that tracks training metrics and form over time, focusing on **data-driven performance insights**.  
-  🔗 Repo: _Not public yet_
+- 🤖 **Currently exploring:** Resource-efficient deep learning & model optimization.
+- 🏊 **Training for:** My next triathlon, while analyzing performance data in Python.
+- 📍 **Based in:** Karlsruhe, Germany.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=aber-58&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=aber-58&theme=transparent&hide_border=true" alt="GitHub streak" />
+### Connect & Stats
+<p align="left">
+  <a href="https://github.com/aber-58">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=aber-58&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+  </a>
+  <a href="https://github.com/aber-58">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aber-58&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
+  </a>
 </p>
 
 ---
 
-
-
-
 <p align="center">
-  <sub>⭐ Thanks for visiting.</sub>
+  <sub>Let's build something efficient.</sub>
 </p>
