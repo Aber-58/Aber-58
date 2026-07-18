@@ -1,7 +1,5 @@
 # Albert
 
----
-
 ### About Me
 I am a graduate student at the Karlsruhe Institute of Technology (KIT) with a passion for building efficient AI systems.
 
